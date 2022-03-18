@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GanpatJangra (avee_angr)
-- 👀 I’m working in web development...
-- 🌱 I’m currently learning advance tailwind css and laravel framework...
-- 💞️ I’m looking to collaborate on tailwind css
-- 📫 How to reach me  just mail me nj9502908@gmail.com Response time 5 min only.
+- 👋 Hi, I’m @GanpatJangra (avee_angr).
+- 👀 I’m student.
+- 👀 I’m learning in web development...
+- 🌱 I’m currently learning advance tailwind css and vue js framework.
+- 📫 How to reach me  just mail me ganpatjangra@gmail.com Response time 5 min only.
 
 <!---
 GanpatJangra/GanpatJangra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
