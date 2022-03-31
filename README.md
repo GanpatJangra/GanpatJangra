@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GanpatJangra (avee_angr).
+- 👋 Hi, I’m @GanpatJangra.
 - 👀 I’m a student (Engineering).
 - ✈️ Planing- study in abroad (BCA).
 - ✌️ I’m learning web development.
