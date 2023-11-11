@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GanpatJangra.
-- 👀 I’m a student (Engineering).
-- ✌️ I’m learning web development.
+- 👀 I’m a web app developer.
+- ✌️ I’m working in addWeb solution as a MEVN developer.
 - 🌱 I’m currently learning advance Nodejs framework.
 - 📫 How to reach me  just mail me ganpatjangra@gmail.com Response time 5 min only.
 
